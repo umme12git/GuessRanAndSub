@@ -1,0 +1,16 @@
+C:\Users\unnip\repos\GuessRanAndSub\bin\Debug\net5.0\GuessRanAndSub.exe
+C:\Users\unnip\repos\GuessRanAndSub\bin\Debug\net5.0\GuessRanAndSub.deps.json
+C:\Users\unnip\repos\GuessRanAndSub\bin\Debug\net5.0\GuessRanAndSub.runtimeconfig.json
+C:\Users\unnip\repos\GuessRanAndSub\bin\Debug\net5.0\GuessRanAndSub.runtimeconfig.dev.json
+C:\Users\unnip\repos\GuessRanAndSub\bin\Debug\net5.0\GuessRanAndSub.dll
+C:\Users\unnip\repos\GuessRanAndSub\bin\Debug\net5.0\ref\GuessRanAndSub.dll
+C:\Users\unnip\repos\GuessRanAndSub\bin\Debug\net5.0\GuessRanAndSub.pdb
+C:\Users\unnip\repos\GuessRanAndSub\obj\Debug\net5.0\GuessRanAndSub.csproj.AssemblyReference.cache
+C:\Users\unnip\repos\GuessRanAndSub\obj\Debug\net5.0\GuessRanAndSub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unnip\repos\GuessRanAndSub\obj\Debug\net5.0\GuessRanAndSub.AssemblyInfoInputs.cache
+C:\Users\unnip\repos\GuessRanAndSub\obj\Debug\net5.0\GuessRanAndSub.AssemblyInfo.cs
+C:\Users\unnip\repos\GuessRanAndSub\obj\Debug\net5.0\GuessRanAndSub.csproj.CoreCompileInputs.cache
+C:\Users\unnip\repos\GuessRanAndSub\obj\Debug\net5.0\GuessRanAndSub.dll
+C:\Users\unnip\repos\GuessRanAndSub\obj\Debug\net5.0\ref\GuessRanAndSub.dll
+C:\Users\unnip\repos\GuessRanAndSub\obj\Debug\net5.0\GuessRanAndSub.pdb
+C:\Users\unnip\repos\GuessRanAndSub\obj\Debug\net5.0\GuessRanAndSub.genruntimeconfig.cache
